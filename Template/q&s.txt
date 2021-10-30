@@ -1,0 +1,6 @@
+This is a  template for the format to be followed in the furthur coding practice sessions taken.
+
+First in this i will note down the question as well as the example if any. 
+And then will note down some brief notes as part of the solution which are critical for the solution part.
+
+Most importantly the solution is being implemented in three lang python, java and js to make it more elegant and diverse.
